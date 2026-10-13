@@ -1,5 +1,7 @@
 <h1 align="center">RUOK?</h1>
-<p align="center"><img src="https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/8315adf1e2bd9f8890b8834b4847f492e36466a2/castiel.gif" width="500" alt="castiel.gif"></p>
+| &nbsp; | &nbsp; |
+| :---: | :---: |
+| ![](https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/c9465013978837529cbece2fe580602d7742907e/castiel.gif) | ![](https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/c9465013978837529cbece2fe580602d7742907e/IMG_8097.gif) |
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
 ## About Me:
