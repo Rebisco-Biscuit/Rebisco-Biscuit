@@ -1,7 +1,7 @@
 <h1 align="center">RUOK?</h1>
 <p align="center">
   <img src="https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/c9465013978837529cbece2fe580602d7742907e/IMG_8097.gif" width="270" height="225" />
-  <img src="https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/c9465013978837529cbece2fe580602d7742907e/castiel.gif" width="270" height="225" />
+  <img src="https://github.com/Rebisco-Biscuit/Rebisco-Biscuit/blob/c9465013978837529cbece2fe580602d7742907e/castiel.gif" width="auto" height="225" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
