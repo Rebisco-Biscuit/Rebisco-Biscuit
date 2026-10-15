@@ -47,10 +47,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## E
-### Persnal Projects
+### Garden
 1. Chrysanthemum
 2. Nierembergia
-3. x Wisteria
+3. Wisteria
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
